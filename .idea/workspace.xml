@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e71e7233-dc7b-46cf-9d5a-8b84c2e7e74f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="98f82e72-c4e5-424c-9809-64975f1c9967" />
+  </component>
+  <component name="ProjectId" id="1dZU6zHHULBLQLZa15qj1tq6iJD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AutoLearningRobot_Hadream_Cloud" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Hadream\工作结果\编程\Python\AutoLearningRobot\thinking_system\client" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e71e7233-dc7b-46cf-9d5a-8b84c2e7e74f" name="Default Changelist" comment="" />
+      <created>1590855025722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590855025722</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="338" key="#Notifications" timestamp="1592735772081">
+      <screen x="0" y="40" width="1368" height="872" />
+    </state>
+    <state x="552" y="338" key="#Notifications/0.40.1368.872@0.40.1368.872" timestamp="1592735772081" />
+    <state x="467" y="287" key="FileChooserDialogImpl" timestamp="1593138257639">
+      <screen x="0" y="40" width="1368" height="872" />
+    </state>
+    <state x="467" y="287" key="FileChooserDialogImpl/0.40.1368.872@0.40.1368.872" timestamp="1593138257639" />
+    <state x="186" y="120" key="SettingsEditor" timestamp="1592736297289">
+      <screen x="0" y="40" width="1368" height="872" />
+    </state>
+    <state x="186" y="120" key="SettingsEditor/0.40.1368.872@0.40.1368.872" timestamp="1592736297289" />
+    <state x="391" y="239" width="623" height="454" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1592632900628">
+      <screen x="0" y="40" width="1368" height="872" />
+    </state>
+    <state x="391" y="239" width="623" height="454" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.40.1368.872@0.40.1368.872" timestamp="1592632900628" />
+  </component>
+</project>
