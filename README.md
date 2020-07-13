@@ -10,8 +10,9 @@
 - 本项目为『设备端』代码
   - 要访问『云端』代码，请前往![ALR_Cloud](https://github.com/AutoLearningRobotHadream/ALR_Cloud)
 
-## 开发者-Developers
-- Lan_zhijiang
+### 架构设计-Structure
+
+### 设计思想-DesignDescrpition
 
 ## 基本信息-BasicInformation
 - 语言
@@ -19,32 +20,9 @@
   - C++
 - IDE
   - JetBrains-Pycharm社区版(我好穷)
-- 库
-  - opencv
-  - tensorflow：tf.kears
 
-## 文件架构-FileStructure
-- auditory_system
-  - device
-  - process
-- memory_system
-  - personality_info_storage
-  - memory_info_storage
-  - device_info_storage
-- speaking_system
-  - client
-  - cloud
-- thinking_system
-  - client
-  - cloud
-    - basic_nature_network
-    - language_engine
-    - logical_thinking
-- vision_system
-  - device
-  - process
-
-## 设计思想-Design
+## 开发者-Developers
+- Lan_zhijiang
 
 ## 更新日志-UpdateLog
 - 2020.5.30
