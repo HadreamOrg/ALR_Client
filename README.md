@@ -19,6 +19,8 @@
 
 ## 开发者-Developers
 - Lan_zhijiang
+- FFXW
+- Leo_han
 
 ### 架构设计-Structure
 
@@ -35,4 +37,6 @@
 - 2020.6.21
   - 添加run.py
 - 2020.6.26
+  - 修改README.md
+- 2020.7.14
   - 修改README.md
