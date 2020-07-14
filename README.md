@@ -23,6 +23,7 @@
 - Leo_han
 
 ### 架构设计-Structure
+![ALR_Client架构设计图](https://github.com/AutoLearningRobotHadream/ALR_Client/blob/master/ALR_Client.png)
 
 ### 设计思想-DesignDescrpition
 
