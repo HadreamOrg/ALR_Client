@@ -25,7 +25,7 @@
 ### 架构设计-Structure
 ![ALR_Client架构设计图](https://github.com/AutoLearningRobotHadream/ALR_Client/blob/master/ALR_Client.png)
 
-### 设计思想-DesignDescrpition
+### 设计解释-DesignDescrpition
 
 ## 更新日志-UpdateLog
 - 2020.5.30
