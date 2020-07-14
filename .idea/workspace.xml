@@ -2,9 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e71e7233-dc7b-46cf-9d5a-8b84c2e7e74f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ALR_Client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ALR_Client.xmind" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditory_system/device/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/auditory_system/process_program/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditory_system/process/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/auditory_system/recorder_manager/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memory_system/device_info_stroage/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_system/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memory_system/memory_info_stroage/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/memory_system/event/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memory_system/personality_info_storage/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/memory_system/event_reader/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speaking_system/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/speaking_system/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/memory_system/event_writer/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speaking_system/client/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/speech_system/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speaking_system/cloud/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thinking_system/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thinking_system/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thinking_system/client/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thinking_system/cloud/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thinking_system/cloud/basic_nature_network/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thinking_system/cloud/language_engine/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thinking_system/cloud/logical_thinking/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vision_system/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vision_system/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vision_system/device/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vision_system/proess/__init__.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +54,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ignore.virus.scanning.warn.message" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AutoLearningRobot_Hadream_Cloud" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -60,10 +80,10 @@
       <screen x="0" y="40" width="1368" height="872" />
     </state>
     <state x="552" y="338" key="#Notifications/0.40.1368.872@0.40.1368.872" timestamp="1592735772081" />
-    <state x="467" y="287" key="FileChooserDialogImpl" timestamp="1593138257639">
+    <state x="467" y="287" key="FileChooserDialogImpl" timestamp="1594466844295">
       <screen x="0" y="40" width="1368" height="872" />
     </state>
-    <state x="467" y="287" key="FileChooserDialogImpl/0.40.1368.872@0.40.1368.872" timestamp="1593138257639" />
+    <state x="467" y="287" key="FileChooserDialogImpl/0.40.1368.872@0.40.1368.872" timestamp="1594466844295" />
     <state x="186" y="120" key="SettingsEditor" timestamp="1592736297289">
       <screen x="0" y="40" width="1368" height="872" />
     </state>
