@@ -40,3 +40,4 @@
   - 修改README.md
 - 2020.7.14
   - 修改README.md
+  - 更新README.md：添加架构设计
