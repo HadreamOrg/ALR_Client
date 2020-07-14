@@ -1,4 +1,4 @@
-# 自学习AI机器人-Hadream-设备端（ALR_Client）
+# 自学习AI机器人-Hadream-设备端(ALR_Client)
 
 ## 简介-Introduction
 - 「自学习AI机器人-Hadream」是以能『自我学习』『自我意识』为目标的机器人项目。
@@ -10,6 +10,11 @@
 - 本项目为『设备端』代码
   - 要访问『云端』代码，请前往![ALR_Cloud](https://github.com/AutoLearningRobotHadream/ALR_Cloud)
 
+## 开发者-Developers
+- Lan_zhijiang
+- FFXW
+- Leo_han
+
 ## 基本信息-BasicInformation
 - 语言
   - Python3
@@ -17,14 +22,10 @@
 - IDE
   - JetBrains-Pycharm社区版(我好穷)
 
-## 开发者-Developers
-- Lan_zhijiang
-- FFXW
-- Leo_han
-
 ### 架构设计-Structure
+![ALR_Client架构设计图](https://github.com/AutoLearningRobotHadream/ALR_Client/blob/master/ALR_Client.png)
 
-### 设计思想-DesignDescrpition
+### 设计说明-DesignDescrpition
 
 ## 更新日志-UpdateLog
 - 2020.5.30
@@ -39,5 +40,6 @@
 - 2020.6.26
   - 修改README.md
 - 2020.7.14
+  - 添加ALR_Client结构设计
   - 修改README.md
   - 更新README.md：添加架构设计
