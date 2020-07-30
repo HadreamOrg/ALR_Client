@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e71e7233-dc7b-46cf-9d5a-8b84c2e7e74f" name="Default Changelist" comment="" />
+    <list default="true" id="e71e7233-dc7b-46cf-9d5a-8b84c2e7e74f" name="Default Changelist" comment="">
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+      <change afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+>>>>>>> d54bad306ece57dfc91d81788fc614845d78580a
+=======
+      <change afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+>>>>>>> d54bad306ece57dfc91d81788fc614845d78580a
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +28,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="98f82e72-c4e5-424c-9809-64975f1c9967" />
+    <option name="defaultAccountId" value="298c9339-ec93-4db2-872e-31b3b0105b04" />
   </component>
   <component name="ProjectId" id="1dZU6zHHULBLQLZa15qj1tq6iJD" />
   <component name="ProjectLevelVcsManager">
@@ -29,9 +39,19 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ALR_Cloud" />
+<<<<<<< HEAD
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+=======
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+>>>>>>> d54bad306ece57dfc91d81788fc614845d78580a
+=======
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+>>>>>>> d54bad306ece57dfc91d81788fc614845d78580a
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -56,17 +76,36 @@
       <screen x="0" y="40" width="1368" height="872" />
     </state>
     <state x="552" y="338" key="#Notifications/0.40.1368.872@0.40.1368.872" timestamp="1592735772081" />
-    <state x="467" y="287" key="FileChooserDialogImpl" timestamp="1594466844295">
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <state x="467" y="287" key="FileChooserDialogImpl" timestamp="1595865117164">
       <screen x="0" y="40" width="1368" height="872" />
+=======
+    <state x="2288" y="-279" key="FileChooserDialogImpl" timestamp="1596004201916">
+      <screen x="1920" y="-811" width="1080" height="1880" />
+>>>>>>> d54bad306ece57dfc91d81788fc614845d78580a
+=======
+    <state x="2288" y="-279" key="FileChooserDialogImpl" timestamp="1596004201916">
+      <screen x="1920" y="-811" width="1080" height="1880" />
+>>>>>>> d54bad306ece57dfc91d81788fc614845d78580a
     </state>
+    <state x="467" y="287" key="FileChooserDialogImpl/0.40.1368.872/457.-1080.1920.1040@0.40.1368.872" timestamp="1595865117164" />
     <state x="467" y="287" key="FileChooserDialogImpl/0.40.1368.872@0.40.1368.872" timestamp="1594466844295" />
-    <state x="186" y="120" key="SettingsEditor" timestamp="1592736297289">
-      <screen x="0" y="40" width="1368" height="872" />
+    <state x="524" y="273" key="FileChooserDialogImpl/0.40.1536.824/1920.-811.1080.1880@0.40.1536.824" timestamp="1595906002205" />
+    <state x="2288" y="-279" key="FileChooserDialogImpl/0.40.1536.824/1920.-811.1080.1880@1920.-811.1080.1880" timestamp="1596004201916" />
+    <state x="209" y="116" key="SettingsEditor" timestamp="1595906033089">
+      <screen x="0" y="40" width="1536" height="824" />
     </state>
     <state x="186" y="120" key="SettingsEditor/0.40.1368.872@0.40.1368.872" timestamp="1592736297289" />
-    <state x="391" y="239" width="623" height="454" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1592632900628">
-      <screen x="0" y="40" width="1368" height="872" />
+    <state x="209" y="116" key="SettingsEditor/0.40.1536.824/1920.-811.1080.1880@0.40.1536.824" timestamp="1595906033089" />
+    <state x="-3" y="69" width="895" height="696" key="dock-window-1" timestamp="1595990589353">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="-3" y="69" width="895" height="696" key="dock-window-1/0.40.1536.824/1920.-811.1080.1880@1920.-811.1080.1880" timestamp="1595990589353" />
+    <state x="439" y="228" width="623" height="454" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1595906003701">
+      <screen x="0" y="40" width="1536" height="824" />
     </state>
     <state x="391" y="239" width="623" height="454" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.40.1368.872@0.40.1368.872" timestamp="1592632900628" />
+    <state x="439" y="228" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.40.1536.824/1920.-811.1080.1880@0.40.1536.824" timestamp="1595906003701" />
   </component>
 </project>
